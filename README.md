@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/sgc91/GAPC/raw/main/GAPC.png" alt="GAPC Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/sgc91/GAPC/main/GAPC.png" alt="GAPC Logo" width="300">
 </p>
+
 
 # ✝️ GAPC – Ganando Almas para Cristo
 
