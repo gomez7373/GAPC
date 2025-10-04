@@ -23,7 +23,7 @@ El objetivo es que **nadie más se aleje del Reino de Dios por falta de entendim
 
 - Enseñar el **contexto histórico y cultural** detrás de los pasajes bíblicos.  
 - Unir **historia + arqueología + fe**, en una experiencia interactiva.  
-- Romper mitos y errores de traducción que han causado confusión o culpa.  
+- Romper mitos y errores de traducción que han causado confusión.  
 - Transformar el estudio bíblico en algo **emocionante, visual y dinámico**.  
 - Inspirar a todas las edades a acercarse a la Palabra con claridad y amor.
 
@@ -34,8 +34,8 @@ El objetivo es que **nadie más se aleje del Reino de Dios por falta de entendim
 ### 🌍 1. Mapa de la Biblia Viva
 Un mapa 3D o pergamino interactivo donde cada **libro bíblico** aparece como una región.
 
-- Al seleccionar “Mateo”, se despliega su **contexto histórico** (Roma, Palestina, idioma original, personajes).  
-- Incluye ilustraciones, artefactos y costumbres representadas visualmente o en realidad aumentada (AR).
+- Al seleccionar “Mateo”, se despliega su **contexto histórico** (Roma, Palestina, personajes, idioma, cultura).  
+- Incluye ilustraciones, artefactos y costumbres representadas visualmente.
 
 ---
 
@@ -53,9 +53,7 @@ reconociendo su significado más allá de la traducción literal.
 
 ### 🧠 3. Misiones de Entendimiento
 Pequeños retos interactivos que promueven reflexión y curiosidad:
-
-- “Descubre qué significaba realmente *maná* para los israelitas.”  
-- “Explora el tipo de amor usado en el original: ágape, eros o filia.”  
+ 
 - “Aprende por qué Jesús usaba parábolas según la cultura de su tiempo.”
 
 **Gamificación ligera**, centrada en el aprendizaje y la revelación, no en competir.
@@ -83,8 +81,8 @@ No es una puntuación, sino una **representación visual de la sabiduría adquir
 
 **Experiencia Interactiva:**
 - Animación muestra el camello arrodillándose para pasar por una pequeña puerta.  
-- Texto explica la costumbre cultural y el simbolismo de la humildad.  
-- Reflexión práctica: *“¿Qué significa arrodillar tu corazón ante la verdad?”*
+- Texto explica la costumbre cultural, el simbolismo de la humildad y el poner a Dios primero.  
+- Reflexión práctica: *“¿Qué significa arrodillar tu corazón y poner a Dios en orimer lugar?”*
 
 ---
 
@@ -93,7 +91,7 @@ No es una puntuación, sino una **representación visual de la sabiduría adquir
 **Motor:** Unity (versión 2022.3 LTS o superior)  
 **Lenguaje:** C#  
 **Plataformas:** Android, iOS, WebGL  
-**Diseño:** Procreate / Photoshop / Blender (para arte visual)  
+**Diseño:** Procreate / Blender (para arte visual)  
 **Audio:** Audacity + Bensound / Free Music Archive  
 
 **Fuentes de datos:**
@@ -140,7 +138,32 @@ GAPC/
 
 ## 🌍 Futuras Funciones
 
-- 📖 **Modo Estudio:** cronología bíblica y concordancia visual.  
+- 📜 **Modo Cronológico Contextual**  
+Explora la Biblia en orden histórico, comprendiendo cada evento dentro de su cultura, época y propósito divino.
+
+- 
+🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
+
+1. Estudio Bíblico Contextual
+Busca comprender el mensaje de la Biblia dentro de su tiempo, cultura, idioma original y propósito histórico.
+
+2. Exégesis Bíblica
+Analiza en profundidad el texto para descubrir su significado original según el autor, el idioma y el contexto.
+
+3. Hermenéutica Bíblica
+Interpreta correctamente la Palabra para aplicarla con sabiduría y relevancia en la vida actual.
+
+4. Estudio Histórico-Cultural
+Explora las costumbres, leyes, lugares y tradiciones que dan vida y contexto al mensaje bíblico.
+
+5. Teología Bíblica
+Revela cómo Dios se manifiesta progresivamente a lo largo de toda la Biblia como una historia unificada de redención.
+
+6. Estudio Devocional
+Invita a una conexión personal con Dios, aplicando cada enseñanza para el crecimiento espiritual diario.
+
+7. Estudio Temático
+Reúne versículos y enseñanzas sobre un mismo tema para entender la visión completa de Dios sobre ese asunto.
 - 🕊️ **Modo Comunidad:** compartir reflexiones, preguntas y descubrimientos.  
 - 🔊 **Modo Voz:** narraciones dramatizadas de pasajes históricos.  
 - 🎯 **Modo Infantil:** lenguaje simple con minijuegos educativos.
@@ -152,20 +175,54 @@ GAPC/
 - Ayudar a las personas a **amar la Palabra de Dios desde el entendimiento.**  
 - Sanar malinterpretaciones que generaron miedo o confusión.  
 - Conectar generaciones con el mensaje eterno del amor divino.  
-- **Ganar almas no por obligación, sino por revelación.**
+- **Ganar almas no por obligación, sino por revelación del Dios vivo.**
+
+ 📖 **Marcos 16:15 (RVR1960)**
+
+ - “Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.”
 
 ---
 
 ## 🙏 Créditos y Agradecimientos
 
-**Dirección Creativa:** Sheila Gómez Cubero (SGC)  
-**Inspiración:** Por Gracia de Dios 💫  
+**Fundadora y Diseñadora del Proyecto:** Sheila Gómez Cubero (SGC)  
+**Inspiración:** La Gracia de Dios 💫  
 **Desarrollo Técnico:** Unity + C#  
-**Arte y Diseño:** Procreate / Photoshop  
+**Arte y Diseño:** Procreate 
 **Misión:** Enseñar, inspirar y ganar almas a través del conocimiento y la verdad.
 
 ---
+## ✝️ “Para que todos sean uno — La oración de Jesús que inspira GAPC (Juan 17:20–23)”
 
+> **20** Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos,  
+> **21** para que todos sean uno; como tú, oh Padre, en mí, y yo en ti, que también ellos sean uno en nosotros; para que el mundo crea que tú me enviaste.  
+> **22** La gloria que me diste, yo les he dado, para que sean uno, así como nosotros somos uno.  
+> **23** Yo en ellos, y tú en mí, para que sean perfectos en unidad, para que el mundo conozca que tú me enviaste, y que los has amado a ellos como también a mí me has amado.  
+
+---
+
+## 💬 En Palabras Sencillas
+
+Jesús está diciendo:
+
+> “Padre, no oro solo por mis discípulos que están aquí conmigo,  
+> sino también por todos los que creerán en mí por medio de su mensaje,  
+> para que sean uno, así como tú y yo somos uno.”
+
+---
+
+## 🌟 Significado Espiritual
+
+- Jesús oró **no solo por sus discípulos**, sino por **todas las generaciones futuras de creyentes** — tú, yo, y todos los que algún día creerían.  
+- Su deseo fue una **unidad espiritual**, no uniformidad: una comunión basada en amor, verdad y propósito divino.  
+- La **unidad de los creyentes** es el testimonio más poderoso para que el mundo crea que Jesús fue enviado por el Padre.  
+
+---
+
+> ✨ *“Que todos sean uno, así como Tú, Padre, en mí, y yo en Ti.”*  
+> — *Juan 17:21*
+
+---
 ## 🕊️ Versículo Inspirador
 
 > “Mi pueblo fue destruido porque le faltó conocimiento.”  
@@ -201,9 +258,18 @@ puedes visitar el sitio oficial del proyecto:
 
 ---
 
-## 📜 Licencia
+##📜 Licencia
 
-Este proyecto puede compartirse y modificarse con fines educativos y evangelísticos,  
-siempre que se mantenga la integridad del mensaje y se reconozca su propósito original:  
-**“Ganar almas para Cristo a través del entendimiento.”**
+Este documento puede **compartirse y adaptarse únicamente con fines educativos y evangelísticos no comerciales**, bajo estas condiciones:
+
+- **Atribución obligatoria:** menciona a *Sheila Gómez Cubero (SGC)* y enlaza a este repositorio.  
+  Ej.: “Contenido adaptado de GAPC por Sheila Gómez Cubero (SGC) — https://github.com/…”
+- **Indicar cambios:** señala claramente si realizas modificaciones y **no** distorsiones el sentido del mensaje.
+- **Mantener el propósito e integridad:** no utilices este contenido para fines contrarios a **“Ganar almas para Cristo a través del entendimiento.”**
+- **Compartir igual (ShareAlike):** cualquier obra derivada debe distribuirse **bajo los mismos términos**.
+- **Prohibido uso comercial:** no se permite vender, monetizar o integrar en productos comerciales sin autorización escrita.
+- **Protección del arte y recursos visuales:** el logo, ilustraciones, diseños, audios y demás recursos gráficos son **propiedad de Sheila Gomez Cubero**; queda **prohibida** su copia o reutilización sin permiso por escrito.
+
+Para permisos especiales (comerciales o distintos a los anteriores): **sgcartgal@gmail.com**  
+© 2025 Sheila Gómez Cubero (SGC). *Todos los derechos reservados sobre arte y recursos visuales.*
 
