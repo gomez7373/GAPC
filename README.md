@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gomez7373/GAPC/main/GAPC.png" alt="GAPC Logo" width="500">
+  <img src="https://raw.githubusercontent.com/gomez7373/GAPC/main/GAPC.png" alt="GAPC Logo" width="380">
 </p>
 
 
