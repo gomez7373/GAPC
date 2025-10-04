@@ -159,7 +159,7 @@ GAPC/
 ## 🙏 Créditos y Agradecimientos
 
 **Dirección Creativa:** Sheila Gómez Cubero (SGC)  
-**Inspiración:** El Espíritu Santo 💫  
+**Inspiración:** Por Gracia de Dios 💫  
 **Desarrollo Técnico:** Unity + C#  
 **Arte y Diseño:** Procreate / Photoshop  
 **Misión:** Enseñar, inspirar y ganar almas a través del conocimiento y la verdad.
