@@ -144,7 +144,7 @@ GAPC/
 
 - 🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
 
-  **1. Estudio Bíblico Contextual:**
+  **1. Estudio Bíblico Contextual:** <br>
   Busca comprender el mensaje de la Biblia dentro de su tiempo, cultura, idioma original y propósito histórico.
 
   **2. Exégesis Bíblica:**
