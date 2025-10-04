@@ -145,25 +145,25 @@ GAPC/
 - 🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
 
   **1. Estudio Bíblico Contextual:**
-        - Busca comprender el mensaje de la Biblia dentro de su tiempo, cultura, idioma original y propósito histórico.
+  Busca comprender el mensaje de la Biblia dentro de su tiempo, cultura, idioma original y propósito histórico.
 
   **2. Exégesis Bíblica:**
-        - Analiza en profundidad el texto para descubrir su significado original según el autor, el idioma y el contexto.
+  Analiza en profundidad el texto para descubrir su significado original según el autor, el idioma y el contexto.
 
   **3. Hermenéutica Bíblica:**
-        - Interpreta correctamente la Palabra para aplicarla con sabiduría y relevancia en la vida actual.
+  Interpreta correctamente la Palabra para aplicarla con sabiduría y relevancia en la vida actual.
 
   **4. Estudio Histórico-Cultural:**
-        - Explora las costumbres, leyes, lugares y tradiciones que dan vida y contexto al mensaje bíblico.
+  Explora las costumbres, leyes, lugares y tradiciones que dan vida y contexto al mensaje bíblico.
 
   **5. Teología Bíblica:**
-        - Revela cómo Dios se manifiesta progresivamente a lo largo de toda la Biblia como una historia unificada de redención.
+  Revela cómo Dios se manifiesta progresivamente a lo largo de toda la Biblia como una historia unificada de redención.
 
   **6. Estudio Devocional:**
-        - Invita a una conexión personal con Dios, aplicando cada enseñanza para el crecimiento espiritual diario.
+  Invita a una conexión personal con Dios, aplicando cada enseñanza para el crecimiento espiritual diario.
 
   **7. Estudio Temático:**
-        - Reúne versículos y enseñanzas sobre un mismo tema para entender la visión completa de Dios sobre ese asunto.
+  Reúne versículos y enseñanzas sobre un mismo tema para entender la visión completa de Dios sobre ese asunto.
         
 - 🕊️ **Modo Comunidad:** compartir reflexiones, preguntas y descubrimientos.  
 - 🔊 **Modo Voz:** narraciones dramatizadas de pasajes históricos.  
