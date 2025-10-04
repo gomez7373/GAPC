@@ -8,7 +8,7 @@
 
 **GAPC (Ganando Almas para Cristo)** es una aplicación interactiva creada con el propósito de ayudar a las personas a **entender la Biblia en su contexto histórico, cultural y espiritual**, de manera clara, dinámica y visual.
 
-Este proyecto busca **inspirar, educar y despertar entendimiento**, eliminando confusiones causadas por interpretaciones fuera de contexto. GAPC no reemplaza la Biblia — la **ilumina**.
+Este proyecto busca **inspirar, educar y despertar entendimiento**, eliminando confusiones causadas por interpretaciones fuera de contexto. ** GAPC no reemplaza la Biblia **.
 
 ---
 
