@@ -138,8 +138,9 @@ GAPC/
 
 ## 🌍 Futuras Funciones
 
-- 📜 **Modo Cronológico Contextual**  
-Explora la Biblia en orden histórico, comprendiendo cada evento dentro de su cultura, época y propósito divino.
+- 📜 **Modo Histórico-Contextual**
+  
+  *Explora la Biblia de manera histórica, comprendiendo cada evento dentro de su cultura, época y propósito divino.*
 
 - 
 🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
