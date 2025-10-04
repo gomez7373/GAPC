@@ -94,7 +94,9 @@ No es una puntuación, sino una **representación visual de la sabiduría adquir
 **Diseño:** Procreate / Photoshop / Blender (para arte visual)  
 **Audio:** Audacity + Bensound / Free Music Archive  
 **Fuentes de datos:**
-- Biblia Reina-Valera, Biblia de Jerusalén, traducciones con licencia abierta.
+- Biblias con traducciones de licencia abierta.
+- 📖 [Descargar Biblia Libre (Antiguo y Nuevo Testamento en Español)](https://ebible.org/pdf/spavbl/spavbl_all.pdf)
+
 - Fuentes académicas y arqueológicas sobre historia bíblica.
 - APIs opcionales para integración de texto o narración.
 
