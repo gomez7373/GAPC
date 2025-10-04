@@ -142,8 +142,7 @@ GAPC/
   
   *Explora la Biblia de manera histórica, comprendiendo cada evento dentro de su cultura, época y propósito divino.*
 
-- 
-🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
+- 🕊️ **Tipos de Estudios Bíblicos Integrados en GAPC**
 
   **1. Estudio Bíblico Contextual:**
         Busca comprender el mensaje de la Biblia dentro de su tiempo, cultura, idioma original y propósito histórico.
