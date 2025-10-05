@@ -237,14 +237,15 @@ Estas versiones están integradas directamente en este repositorio para uso educ
 respetando las licencias de sus textos fuente.
 
 ### 🇪🇸 Versión Biblia Libre (Español)
-📘 [Descargar Biblia Libre – Español (PDF)](https://github.com/sgc91/GAPC/raw/main/spavbl_all.pdf)  
+📘 [Descargar Biblia Libre – Español (PDF)](https://github.com/gomez7373/GAPC/raw/main/spavbl_all.pdf)  
 🔗 Fuente original: [https://ebible.org/pdf/spavbl/](https://ebible.org/pdf/spavbl/)  
 📜 Licencia: © 2018–2020 Jonathan Gallagher y Shelly Barrios de Ávila — *Licencia Creative Commons (uso educativo permitido)*  
+
 
 ---
 
 ### 🇬🇧 World English Bible (Inglés)
-📘 [Download World English Bible – English (PDF)](https://github.com/sgc91/GAPC/raw/main/eng-web_all.pdf)  
+📘 [Download World English Bible – English (PDF)](https://github.com/gomez7373/GAPC/raw/main/eng-web_all.pdf)  
 🔗 Official source: [https://ebible.org/pdf/eng-web/](https://ebible.org/pdf/eng-web/)  
 📜 License: *Public Domain* (may be freely copied and distributed)  
 
