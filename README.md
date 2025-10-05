@@ -265,7 +265,7 @@ puedes visitar el sitio oficial del proyecto:
 Este documento puede **compartirse y adaptarse únicamente con fines educativos y evangelísticos no comerciales**, bajo estas condiciones:
 
 - **Atribución obligatoria:** menciona a *Sheila Gómez Cubero (SGC)* y enlaza a este repositorio.  
-  Ej.: “Contenido adaptado de GAPC por Sheila Gómez Cubero (SGC) — https://github.com/…”
+  Ej.: “Contenido adaptado de GAPC por Sheila Gómez Cubero (SGC) — [https://github.com/gomez7373/GAPC](https://github.com/gomez7373/GAPC)
 - **Indicar cambios:** señala claramente si realizas modificaciones y **no** distorsiones el sentido del mensaje.
 - **Mantener el propósito e integridad:** no utilices este contenido para fines contrarios a **“Ganar almas para Cristo a través del entendimiento.”**
 - **Compartir igual (ShareAlike):** cualquier obra derivada debe distribuirse **bajo los mismos términos**.
